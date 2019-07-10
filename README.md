@@ -1,0 +1,2 @@
+# seo
+GitHub Pages
